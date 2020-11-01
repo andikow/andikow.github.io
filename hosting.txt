@@ -1,0 +1,5 @@
+Firebase Hosting
+https://submission2-eb032.web.app/
+
+Github Pages
+https://andikow.github.io/public/index.html
